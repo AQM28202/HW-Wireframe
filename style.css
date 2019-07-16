@@ -31,7 +31,7 @@ header {
   #section {
     float: left;
     margin-right: 20px;
-    padding-top: 30px;
+    padding-top: 25px;
     height: 250px;
     width: 495px;
     color: #333;
@@ -39,20 +39,36 @@ header {
   }
   #art { 
     margin-top: 10px;
-    margin-left: 10px; 
-    height: 200px;
+    margin-left: 10px;
+    padding-top: 10px;
+    height: 190px;
     width: 475px;
     background: #777;
     color: #ebebeb;
+
 }
-  
+#headings {
+    height: 50px;
+    color: #777;
+    background: #ebebeb;
+    margin: 20px;
+    text-align: center
+}
+
+#para {
+    height: 50px;
+    color: #777;
+    background: #ebebeb;
+    margin: 20px;
+}
 
   #aside {
     float: left;
-    padding-top: 30px;
+    padding-top: 25px;
     height: 250px;
     width: 425px;
-    color: #333;
+    color: #333;  
+    margin-bottom: 20px;
     background: #ebebeb;
   }
 
@@ -60,7 +76,7 @@ header {
     width: 900px;
     height: 55px;
     padding: 20px;
-    margin-bottom: 20px;
     color: #333;
+    clear: both;
     background: #ebebeb;
   }
