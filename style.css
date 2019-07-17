@@ -52,17 +52,19 @@ header {
     height: 50px;
     color: #777;
     background: #ebebeb;
-    margin: 20px;
-    text-align: center
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
 }
 
 #para {
     height: 50px;
     color: #777;
     background: #ebebeb;
-    margin: 20px;
-    padding-top:1px;
-    vertical-align: middle;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+  
 }
 
   #aside {
